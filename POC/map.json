@@ -1,0 +1,8 @@
+{
+    "id":"row",
+    "first_name": "firstName",
+    "last_name": "lastName",
+    "email":"e-mail",
+    "gender":"sex",
+    "ip_address": "ip"
+}
